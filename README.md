@@ -77,3 +77,15 @@ I also practiced version control with Git and GitHub.
 
 Overall, this assignment improved both my technical data analysis skills and my ability to package and share work professionally through GitHub.
 
+---
+
+## 📸 Example Visualizations  
+
+### Publications by Year  
+![Publications by Year](screenshots/plots_publications_by_year.png)  
+
+### Top 10 Journals  
+![Top 10 Journals](screenshots/plots_top_journals.png)  
+
+### Word Cloud of Paper Titles  
+![Word Cloud](screenshots/plots_wordcloud_titles.png)  
